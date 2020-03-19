@@ -1,0 +1,11 @@
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\obj\Debug\netcoreapp3.1\Practice_Singleton.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\obj\Debug\netcoreapp3.1\Practice_Singleton.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\obj\Debug\netcoreapp3.1\Practice_Singleton.AssemblyInfo.cs
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\bin\Debug\netcoreapp3.1\Practice_Singleton.exe
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\bin\Debug\netcoreapp3.1\Practice_Singleton.deps.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\bin\Debug\netcoreapp3.1\Practice_Singleton.runtimeconfig.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\bin\Debug\netcoreapp3.1\Practice_Singleton.runtimeconfig.dev.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\bin\Debug\netcoreapp3.1\Practice_Singleton.dll
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\bin\Debug\netcoreapp3.1\Practice_Singleton.pdb
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\obj\Debug\netcoreapp3.1\Practice_Singleton.dll
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_Singleton\obj\Debug\netcoreapp3.1\Practice_Singleton.pdb
